@@ -83,15 +83,19 @@ Area is in pixels² because no calibration was given. Actin intensity is in arbi
 ## 5. Answers
 
 **1. Which phenotype did you choose, and what visible features support it?**
+
 I chose Large spread. The cells in this field look big and flat, with wide, ruffled edges instead of small round shapes.
 
 **2. Were your five cells mostly round or elongated?**
+
 They were mixed. Cells 1 and 2 were fairly round (circularity 0.83 and 0.77). Cell 3 was very elongated (circularity 0.18, aspect ratio 4.16) because I traced a long thin projection. The mean circularity was 0.60 and the mean aspect ratio was 2.08.
 
 **3. What role does actin play in cell shape and movement?**
+
 Actin filaments form a network under the plasma membrane that supports the shape of the cell. During movement, actin builds up at the front edge and pushes the membrane forward to make protrusions.
 
 **4. Why can a single fixed fluorescence image NOT show how fast a cell moves?**
+
 A fixed image is only one moment in time. To measure speed, you need to follow the same cell over several time points and see how far it moved.
 
 ---
