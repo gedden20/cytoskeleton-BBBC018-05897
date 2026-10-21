@@ -1,8 +1,5 @@
 # Cytoskeleton and Cell Morphology (BBBC018)
 
-Lab activity for Karp Chapter 9: The Cytoskeleton and Cell Motility
-Tools used: Fiji/ImageJ, R, GitHub
-
 ---
 
 ## 1. Image Information
