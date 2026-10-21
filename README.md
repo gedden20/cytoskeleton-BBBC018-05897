@@ -9,25 +9,29 @@ Tools used: Fiji/ImageJ, R, GitHub
 
 | Item | Details |
 |---|---|
-| Student ID | YOUR ID HERE |
-| Chosen phenotype (my visual classification) | Large spread |
+| Student ID | 202400729 |
+| Chosen phenotype | Large spread |
 | Image field ID | 05897 |
 | Actin file | 05897-actin.DIB |
 | DNA file | 05897-DNA.DIB |
 | Dataset page | https://bbbc.broadinstitute.org/BBBC018 |
 | Download link | https://data.broadinstitute.org/bbbc/BBBC018/BBBC018_v1_images.zip |
 
-Note: The phenotype is my own visual classification. Image filenames do not give phenotype labels. These are fixed, stained cells, so this activity looks at cell shape and actin staining, not movement.
 
 ---
 
 ## 2. Brief Fiji Steps
 
 1. I opened 05897-actin.DIB and 05897-DNA.DIB in Fiji using File > Import > Bio-Formats.
+   
 2. In Analyze > Set Measurements, I checked Area, Mean gray value, Shape descriptors and Display label. Limit to threshold stayed unchecked.
+   
 3. I opened Analyze > Tools > ROI Manager.
+   
 4. I traced five cells on the actin image with the polygon tool. I used the DNA image to check the nuclei.
+   
 5. For each cell I pressed T to add it to ROI Manager, then M to measure it.
+    
 6. I saved the Results table as data/fiji_results.csv and the traced cells as figures/measured_cells.png. The original DIB images were not changed.
 
 ---
